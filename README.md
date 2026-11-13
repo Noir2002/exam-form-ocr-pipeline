@@ -1,6 +1,8 @@
-# Computer Vision Final Project
+# Exam form OCR pipeline
 
-Automatic reading of semi-structured exam forms for the IG.2405/IG2045 Computer Vision final project.
+Automatic reading of semi-structured exam forms for the IG.2405/IG2045 Computer Vision final project (ISEP team project, June 2026).
+
+**At a glance:** scanned exam PDFs and attendance sheets go in, and Excel files come out: checkboxes and multiple-choice answers, signatures, printed and handwritten fields. The pipeline processed 141 exam copies and 96 attendance sheets. My part was integrating the three team modules into a single CLI (`main.py`).
 
 The project contains two main programs:
 
